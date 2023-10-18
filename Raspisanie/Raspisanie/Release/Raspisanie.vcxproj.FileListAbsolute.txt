@@ -1,0 +1,4 @@
+D:\Учеба\ТРПО\Raspisanie\Raspisanie\Release\Raspisanie.vcxproj.AssemblyReference.cache
+D:\Учеба\ТРПО\Raspisanie\Raspisanie\Release\Raspisanie.vcxproj.SuggestedBindingRedirects.cache
+D:\Учеба\ТРПО\Raspisanie\Raspisanie\Release\Raspisanie.MyForm.resources
+D:\Учеба\ТРПО\Raspisanie\Raspisanie\Release\Raspisanie.vcxproj.GenerateResource.cache

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : error LNK2020: неразрешенная лексема (06000005) Raspisanie.MyForm::tabControl1_SelectedIndexChanged
+D:\Учеба\ТРПО\Raspisanie\x64\Debug\Raspisanie.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

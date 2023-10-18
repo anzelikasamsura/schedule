@@ -1,0 +1,3 @@
+D:\Учеба\ТРПО\Raspisanie\Raspisanie\x64\Debug\Raspisanie.vcxproj.AssemblyReference.cache
+D:\Учеба\ТРПО\Raspisanie\Raspisanie\x64\Debug\Raspisanie.MyForm.resources
+D:\Учеба\ТРПО\Raspisanie\Raspisanie\x64\Debug\Raspisanie.vcxproj.GenerateResource.cache
